@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24716da3-07d8-46e4-b5c5-27884f0f652c" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/test/KerberosUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/test/PropertyUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/utils/HiveUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/utils/KerberosUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/utils/PropertyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/java/utils/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/resources/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-common/src/main/scala/HiveUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-kerberos-etl/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-kerberos-etl/src/main/resources/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armed-police-kerberos-etl/src/main/resources/hive-site.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armed-police-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/armed-police-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armed-police-common/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/armed-police-etl/src/main/scala/ods/ods_emm_pub_staff_add.scala" beforeDir="false" afterPath="$PROJECT_DIR$/armed-police-kerberos-etl/src/main/scala/ods/ods_emm_pub_staff_add.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armed-police-etl/src/main/scala/utils/SparkUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/armed-police-etl/src/main/scala/utils/SparkUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armed-police-local/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/armed-police-kerberos-etl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armed-police-local/src/main/java/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xml/c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xml/core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xml/h.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xml/hdfs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xml/yarn.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1t9vD27STltA5ROg7Kv1OdSBvaQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="hive" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/armed-police-kerberos-etl/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Project\IdeaProjects\big-data-platform\armed-police-kerberos-etl\src\main\resources" />
+      <recent name="F:\Project\IdeaProjects\big-data-platform\armed-police-common\src\main\resources" />
+      <recent name="F:\Project\IdeaProjects\big-data-platform\armed-police-etl\src\main\resources" />
+      <recent name="F:\Project\IdeaProjects\big-data-platform\armed-police-train-ticket\src\main\resources" />
+      <recent name="F:\Project\IdeaProjects\big-data-platform\armed-police-train-ticket\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Project\IdeaProjects\big-data-platform\src\xml" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ods" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+      <recent name="" />
+      <recent name="test" />
+      <recent name="ods" />
+      <recent name="com.woyitech.hdfs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KerberosUtilsTest">
+    <configuration name="KerberosUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.KerberosUtilsTest" />
+      <module name="armed-police-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ods_emm_pub_staff_add" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ods.ods_emm_pub_staff_add" />
+      <module name="armed-police-kerberos-etl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KerberosUtilsTest" />
+        <item itemvalue="Application.ods_emm_pub_staff_add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24716da3-07d8-46e4-b5c5-27884f0f652c" name="Default Changelist" comment="" />
+      <created>1622193998445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622193998445</updated>
+      <workItem from="1622193999647" duration="1675000" />
+      <workItem from="1622419336039" duration="34965000" />
+      <workItem from="1622594460417" duration="20833000" />
+      <workItem from="1622681387419" duration="17197000" />
+      <workItem from="1622766136527" duration="17253000" />
+      <workItem from="1622801121415" duration="34000" />
+      <workItem from="1623026058977" duration="5319000" />
+      <workItem from="1623035342785" duration="2377000" />
+      <workItem from="1623044621629" duration="9388000" />
+      <workItem from="1623113387052" duration="781000" />
+      <workItem from="1623121956160" duration="7519000" />
+      <workItem from="1623144527130" duration="790000" />
+      <workItem from="1623199390198" duration="4968000" />
+      <workItem from="1623217693658" duration="8593000" />
+      <workItem from="1623285680829" duration="975000" />
+      <workItem from="1623289698498" duration="4158000" />
+      <workItem from="1623372607533" duration="18533000" />
+      <workItem from="1623717099740" duration="15632000" />
+      <workItem from="1623811962807" duration="9891000" />
+      <workItem from="1623889506839" duration="9887000" />
+      <workItem from="1623901059474" duration="14884000" />
+      <workItem from="1623986980326" duration="2480000" />
+      <workItem from="1624244000960" duration="4639000" />
+      <workItem from="1624322268100" duration="8408000" />
+      <workItem from="1624348355627" duration="22000" />
+      <workItem from="1624349661378" duration="581000" />
+      <workItem from="1624350297388" duration="948000" />
+      <workItem from="1624351754962" duration="68000" />
+      <workItem from="1624351917461" duration="630000" />
+      <workItem from="1624352649073" duration="2557000" />
+      <workItem from="1624409221699" duration="7500000" />
+      <workItem from="1624428416227" duration="6387000" />
+      <workItem from="1624495245147" duration="1021000" />
+      <workItem from="1624516283187" duration="1307000" />
+      <workItem from="1624521108773" duration="2160000" />
+      <workItem from="1624581990703" duration="15205000" />
+      <workItem from="1624614045397" duration="2124000" />
+      <workItem from="1624667784192" duration="2855000" />
+      <workItem from="1624671003196" duration="15577000" />
+      <workItem from="1624840111143" duration="14431000" />
+      <workItem from="1624925985056" duration="5033000" />
+      <workItem from="1625013093749" duration="7242000" />
+      <workItem from="1625130234421" duration="1979000" />
+      <workItem from="1625189615502" duration="326000" />
+      <workItem from="1625557018495" duration="4447000" />
+      <workItem from="1625619695901" duration="6732000" />
+      <workItem from="1629254435783" duration="1696000" />
+      <workItem from="1629265486694" duration="3196000" />
+      <workItem from="1629269305606" duration="9636000" />
+      <workItem from="1629335391335" duration="20680000" />
+      <workItem from="1629366764558" duration="499000" />
+      <workItem from="1629419948756" duration="18971000" />
+      <workItem from="1629775457306" duration="16759000" />
+      <workItem from="1629853574073" duration="5117000" />
+      <workItem from="1629957236892" duration="2105000" />
+      <workItem from="1629963914964" duration="119000" />
+      <workItem from="1630026817039" duration="7714000" />
+      <workItem from="1630283383377" duration="3525000" />
+      <workItem from="1630289778880" duration="6449000" />
+      <workItem from="1630314374804" duration="855000" />
+      <workItem from="1630372491818" duration="877000" />
+      <workItem from="1630398040020" duration="15000" />
+      <workItem from="1630463890501" duration="3283000" />
+      <workItem from="1630467225517" duration="348000" />
+      <workItem from="1630467594754" duration="149000" />
+      <workItem from="1630467761396" duration="8098000" />
+      <workItem from="1630485265066" duration="4545000" />
+      <workItem from="1630489996330" duration="266000" />
+      <workItem from="1630490283616" duration="394000" />
+      <workItem from="1630543574342" duration="1165000" />
+      <workItem from="1630544858503" duration="447000" />
+      <workItem from="1630545357190" duration="1892000" />
+      <workItem from="1630547703983" duration="386000" />
+      <workItem from="1630548171042" duration="1241000" />
+      <workItem from="1630551974690" duration="24000" />
+      <workItem from="1630650327755" duration="236000" />
+      <workItem from="1630650602346" duration="1197000" />
+      <workItem from="1630909433620" duration="744000" />
+      <workItem from="1631177952362" duration="1384000" />
+      <workItem from="1631240442540" duration="10000" />
+      <workItem from="1631674825360" duration="437000" />
+      <workItem from="1631861069012" duration="847000" />
+      <workItem from="1631861935116" duration="188000" />
+      <workItem from="1631862139990" duration="904000" />
+      <workItem from="1632815976646" duration="6000" />
+      <workItem from="1632816223872" duration="10994000" />
+      <workItem from="1632880030726" duration="1797000" />
+      <workItem from="1632883152818" duration="3440000" />
+      <workItem from="1632886785677" duration="1220000" />
+      <workItem from="1632895938870" duration="622000" />
+      <workItem from="1632902254566" duration="1165000" />
+      <workItem from="1632904983186" duration="802000" />
+      <workItem from="1632905941880" duration="32000" />
+      <workItem from="1632906012719" duration="194000" />
+      <workItem from="1632906360737" duration="107000" />
+      <workItem from="1632906541682" duration="7000" />
+      <workItem from="1632908308624" duration="42000" />
+      <workItem from="1632908433215" duration="15000" />
+      <workItem from="1632908462717" duration="43000" />
+      <workItem from="1632908577788" duration="50000" />
+      <workItem from="1632908674582" duration="2612000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1633913844268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633913844268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

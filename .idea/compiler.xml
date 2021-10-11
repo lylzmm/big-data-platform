@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="armed-police-kerberos-etl" />
+        <module name="armed-police-common" />
+        <module name="armed-police-etl" />
+        <module name="armed-police-train-ticket" />
+        <module name="armed-police-profile-tags" />
+        <module name="armed-police-message" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="armed-police-common" target="8" />
+      <module name="armed-police-etl" target="8" />
+      <module name="armed-police-kerberos-etl" target="8" />
+      <module name="armed-police-local" target="8" />
+      <module name="armed-police-message" target="8" />
+      <module name="armed-police-profile-tags" target="8" />
+      <module name="armed-police-train-ticket" target="8" />
+      <module name="big-data-platform" target="8" />
+      <module name="cdh-etl" target="8" />
+      <module name="hadoop-ha" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

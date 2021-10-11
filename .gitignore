@@ -1,0 +1,6 @@
+# Project exclude paths
+/armed-police-common/target/
+/armed-police-etl/target/
+/armed-police-message/target/
+/armed-police-profile-tags/target/
+/armed-police-train-ticket/target/

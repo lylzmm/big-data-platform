@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+	<!-- 指定NameNode的地址 -->
+	<property>
+		<name>fs.defaultFS</name>
+		<value>hdfs://node01:9820</value>
+	</property>
+	<!-- 指定hadoop数据的存储目录 -->
+	<property>
+		<name>hadoop.tmp.dir</name>
+		<value>/opt/module/hadoop-3.1.3/data</value>
+	</property>
+
+	<!-- 配置HDFS网页登录使用的静态用户为atguigu -->
+	<property>
+		<name>hadoop.http.staticuser.user</name>
+		<value>hadoop</value>
+	</property>
+
+	<!-- 配置该atguigu(superUser)允许通过代理访问的主机节点 -->
+	<property>
+		<name>hadoop.proxyuser.hadoop.hosts</name>
+		<value>*</value>
+	</property>
+	<!-- 配置该atguigu(superUser)允许通过代理用户所属组 -->
+	<property>
+		<name>hadoop.proxyuser.hadoop.groups</name>
+		<value>*</value>
+	</property>
+	<!-- 配置该atguigu(superUser)允许通过代理的用户 -->
+	<property>
+		<name>hadoop.proxyuser.hadoop.groups</name>
+		<value>*</value>
+	</property>
+	
+	<!--
+    以分钟为单位的垃圾回收时间，垃圾站中数据超过此时间，会被删除。如果是0，
+    垃圾回收机制关闭。可以配置在服务器端和客户端。如果在服务器端配置trash无效，
+    会检查客户端配置。如果服务器端配置有效，客户端配置会忽略
+    -->
+    <property>
+        <name>fs.trash.interval</name>
+        <value>4320</value>
+    </property>
+
+    <!--
+        以分钟为单位的垃圾回收检查间隔。应该小于或等于fs.trash.interval。
+        如果是0，值等同于fs.trash.interval。每次检查器运行，会创建新的检查点
+    -->
+    <property>
+        <name>fs.trash.checkpoint.interval</name>
+        <value>60</value>
+    </property>
+</configuration>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/armed-police-common/armed-police-common.iml" filepath="$PROJECT_DIR$/armed-police-common/armed-police-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armed-police-etl/armed-police-etl.iml" filepath="$PROJECT_DIR$/armed-police-etl/armed-police-etl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armed-police-kerberos-etl/armed-police-kerberos-etl.iml" filepath="$PROJECT_DIR$/armed-police-kerberos-etl/armed-police-kerberos-etl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armed-police-message/armed-police-message.iml" filepath="$PROJECT_DIR$/armed-police-message/armed-police-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armed-police-profile-tags/armed-police-profile-tags.iml" filepath="$PROJECT_DIR$/armed-police-profile-tags/armed-police-profile-tags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armed-police-train-ticket/armed-police-train-ticket.iml" filepath="$PROJECT_DIR$/armed-police-train-ticket/armed-police-train-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/big-data-platform.iml" filepath="$PROJECT_DIR$/big-data-platform.iml" />
+    </modules>
+  </component>
+</project>
